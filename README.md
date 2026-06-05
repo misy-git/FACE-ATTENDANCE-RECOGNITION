@@ -34,6 +34,7 @@ This project is an AI-powered Face Recognition Attendance System that automates 
 ![Analytics](images/dashboard3.jpeg)
 
 ### 📂 Records
+![Records](images/dashboardr6.jpeg)
 ![Records](images/dashboard4.jpeg)
 
 
