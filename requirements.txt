@@ -1,0 +1,7 @@
+streamlit
+deepface
+tensorflow
+pandas
+pillow
+numpy
+scikit-learn
