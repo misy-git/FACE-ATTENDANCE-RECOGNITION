@@ -25,16 +25,16 @@ This project is an AI-powered Face Recognition Attendance System that automates 
 ## 📸 Screenshots
 
 ### 🏠 Home Dashboard
-![Home](images/dashboard5.png)
+![Home](images/dashboard5.jpeg)
 
 ### 📸Prediciton
 ![Prediction](images/dashboard2.jpeg)
 
 ### 📊 Analytics
-![Analytics](images/dashboard3.png)
+![Analytics](images/dashboard3.jpeg)
 
 ### 📂 Records
-![Records](images/dashboard4.png)
+![Records](images/dashboard4.jpeg)
 
 
 ## ▶️ How to Run
