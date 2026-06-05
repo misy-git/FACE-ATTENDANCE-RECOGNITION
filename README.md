@@ -1,6 +1,7 @@
-# 📌 FACE-ATTENDANCE-RECOGNITION
+#  FACE-ATTENDANCE-RECOGNITION
 
-## 🚀 Overview
+##  Overview
+
 This project is an AI-powered Face Recognition Attendance System that automates attendance marking using facial recognition.
 
 ---
@@ -21,7 +22,20 @@ This project is an AI-powered Face Recognition Attendance System that automates 
 - TensorFlow / Keras  
 - Pandas  
 
----
+## 📸 Screenshots
+
+### 🏠 Home Dashboard
+![Home](images/dashboard5.png)
+
+### 📸Prediciton
+![Prediction](images/dashboard2.jpeg)
+
+### 📊 Analytics
+![Analytics](images/dashboard3.png)
+
+### 📂 Records
+![Records](images/dashboard4.png)
+
 
 ## ▶️ How to Run
 ```bash
