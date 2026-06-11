@@ -23,16 +23,6 @@ This project is an **AI-powered Face Recognition Attendance System** that automa
 * DeepFace
 * TensorFlow / Keras
 * Pandas
-
----
-
-## 🌐 Live Demo
-
-🚫 **Full live deployment is not available** because this project requires real-time webcam access and local system execution.
-
-🎥 **Demo Video:**
-https://your-demo-video-link
-
 ---
 
 ## 📸 Screenshots
